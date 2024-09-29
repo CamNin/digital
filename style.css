@@ -1,0 +1,56 @@
+
+  a:hover, a:active {
+    font-weight : bold;
+  }
+  
+  .beige {
+    background-color: #FFF0D1 !important;
+  }
+  
+  .beige-text {
+    color: #FFF0D1 !important;
+  }
+  
+  .brown1 {
+    background-color: #3B3030 !important;
+  }
+  
+  .brown1-text {
+    color: #3B3030 !important;
+  }
+  .brown1_clear {
+    background-color: #5b4242;
+  }
+
+  .brown1_clear-text {
+    color : #5b4242;
+  }
+  
+  .brown2 {
+    background-color: #664343 !important;
+  }
+  
+  .brown2-text {
+    color: #664343 !important;
+  }
+  
+  .brown3 {
+    background-color: #795757 !important;
+  }
+  
+  .brown3-text {
+    color: #795757 !important;
+  }
+
+  body {
+    background-color: black;
+    font-family: "Gowun Batang";
+    color :#FFF0D1;
+  }
+
+  .button{
+    font-family: "Gowun Batang";
+    font-size: medium;
+    color:#FFF0D1;
+    background-color: #5b4242;
+  }
